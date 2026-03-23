@@ -27,5 +27,8 @@ To write a Python function that accepts a number **N** and creates a list contai
 ```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/3053e83d-19d7-4dd9-b433-544978b01c66)
+
 
 ### RESULT
+Thus the program that creates a list of even numbers from 12 to n and prints the list and its sum has been implemented and executed successfully.
